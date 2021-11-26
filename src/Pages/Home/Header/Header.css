@@ -1,0 +1,15 @@
+.header-file{
+    background-color: rgba(12, 10, 117, 0.8);
+}
+.header-file a{
+    color:#fff;
+}
+.bikehub{
+    
+    font-weight: 500;
+    font-size: 2rem;
+    padding-left: 1.5rem;
+}
+.toggle-icons{
+    color:#fff;
+}

@@ -1,0 +1,9 @@
+.sidebar-section{
+    background-color:#fff;
+    font-size: 1.5rem;
+    border-right:1px solid rgb(119, 106, 190);
+   
+}
+.dashboard-part{
+    overflow: hidden;
+}

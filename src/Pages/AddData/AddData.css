@@ -1,0 +1,26 @@
+.booking-section{
+    overflow: hidden;
+}
+
+
+.products-add{
+    background-color: rgba(12, 10, 117, 0.8);
+    color: #fff;
+    border-radius: 5px;
+    border:none;
+    padding:5px 10px;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.add-data form {
+    display:flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.add-data form input,textarea{
+    width:60%;
+    margin-bottom: .8rem;
+   
+}

@@ -1,0 +1,30 @@
+.price{
+    color:rgb(20, 11, 97);
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.card-details{
+   
+    height: 35rem;
+}
+
+.image-size {
+    height:300px;
+}
+.card-name{
+    color: rgb(230, 102, 28);
+}
+.releaseDate{
+    color: rgba(12, 10, 117, 0.8);
+    font-weight: 500;
+    
+}
+.details-button{
+    background-color: rgb(230, 102, 28);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding:5px 10px;
+    font-size: 1rem;
+    font-weight: 500;
+}
